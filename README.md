@@ -1,6 +1,6 @@
 CoreNumeric
 
-Implementación de una librería numérica genérica desarrollada en C++20 como parte de la Tarea #2 del curso Programación III.
+Implementación de una librería numérica genérica desarrollada en C++20.
 
 Descripción
 
